@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Football Club</string>
+
+    <string-array name="tes">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+
+</resources>
